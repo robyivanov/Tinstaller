@@ -1,0 +1,34 @@
+{
+    "links":[
+        {
+            "title": "Файл сервера torrserv arm7",
+            "description": "Файл сервера torr",
+            "url": "https://robyivanov.github.io/my_robbyinstaller/TorrServer-android-arm7.so",
+            "mirror": "https://robyivanov.github.io/my_robbyinstaller/TorrServer-android-arm7.so",
+            "category": "Обход"
+        }
+    ],
+    "apps":[
+        {
+            "title": "VLC плеер",
+            "description": "VLC плеер",
+            "url": "https://f-droid.org/repo/org.videolan.vlc_13040408.apk",
+            "mirror": "https://f-droid.org/repo/org.videolan.vlc_13040408.apk",
+            "category": "Плеер"
+        },
+        {
+            "title": "HDrezka",
+            "description": "Онлайн кинотеатр",
+            "url": "https://robyivanov.github.io/my_robbyinstaller/HDRezka-Client-1.3.2.apk",
+            "mirror": "https://robyivanov.github.io/my_installer/HDRezka-Client-1.3.2.apk",
+            "category": "Кинозал"
+        },
+        {
+            "title": "Torrserve M",
+            "description": "Смотреть фильмов через торрсервере",
+            "url": "https://www.tvbox.one/download/TorrServe-Matrix.114.apk",
+            "mirror": "https://www.tvbox.one/download/TorrServe-Matrix.114.apk",
+            "category": "Клиент"
+        }
+    ]
+}
